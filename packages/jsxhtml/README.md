@@ -1,6 +1,6 @@
 # jsxhtml
 
-[![License][license-image]][license-url] [![NPM Package Version][npm-image-version]][npm-url] ![GitHub top language][language-image] ![Size][size-image] ![Last Commit][commit-image] ![Workflow CI][workflow-image]
+[![License][license-image]][license-url] [![NPM Package Version][npm-image-version]][npm-url]
 
 Write jsx like template literal.
 
@@ -94,14 +94,11 @@ See [LICENSE][license-url].
 
 Copyright &copy; 2023. Kossi D. T. Saka.
 
-[npm-image-version]: https://img.shields.io/npm/v/@kdts/jsxhtml.svg
-[npm-image-downloads]: https://img.shields.io/npm/dm/@kdts/jsxhtml.svg?color=purple
 [npm-url]: https://npmjs.org/package/@kdts/jsxhtml
-[license-image]: https://img.shields.io/github/license/kossidts/jsxhtml
-[license-url]: https://github.com/kossidts/jsxhtml/blob/master/LICENSE
-[language-image]: https://img.shields.io/github/languages/top/kossidts/jsxhtml?color=yellow
-[size-image]: https://img.shields.io/github/repo-size/kossidts/jsxhtml?color=light
-[commit-image]: https://img.shields.io/github/last-commit/kossidts/jsxhtml
-[actions-url]: https://github.com/kossidts/jsxhtml/actions
-[workflow-image]: https://github.com/kossidts/jsxhtml/actions/workflows/node.js.yml/badge.svg
-[workflow-image-2]: https://github.com/kossidts/jsxhtml/workflows/Node.js%20CI/badge.svg
+[npm-image-version]: https://img.shields.io/npm/v/@kdts/jsxhtml.svg?logo=nodedotjs
+[npm-image-downloads]: https://img.shields.io/npm/dm/@kdts/jsxhtml.svg?color=purple
+[license-url]: https://github.com/kossidts/kdts-utils/blob/main/packages/jsxhtml/LICENSE
+[license-image-1]: https://img.shields.io/github/license/kossidts/kdts-utils/tree/main/packages/jsxhtml
+[license-image]: https://img.shields.io/badge/license-MIT-green
+[language-image-1]: https://img.shields.io/github/languages/top/kossidts/kdts-utils/tree/main/packages/jsxhtml?color=yellow
+[language-image-2]: https://img.shields.io/badge/script-ts%20&%20js-red

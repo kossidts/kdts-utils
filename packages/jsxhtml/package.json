@@ -28,5 +28,11 @@
         "typescript": "^5.2.2",
         "vite": "^4.5.0"
     },
-    "keywords": []
+    "keywords": [
+        "tagged",
+        "template",
+        "literals",
+        "jsx",
+        "html"
+    ]
 }
