@@ -1,0 +1,32 @@
+{
+    "name": "@kdts/jsxhtml",
+    "version": "1.0.0",
+    "description": "Write jsx like template literal",
+    "author": "Kossi D. T. Saka",
+    "license": "MIT",
+    "type": "module",
+    "main": "./dist/jsxhtml.cjs",
+    "module": "./dist/jsxhtml.js",
+    "types": "./types/*",
+    "exports": {
+        ".": {
+            "import": "./dist/jsxhtml.js",
+            "require": "./dist/jsxhtml.cjs",
+            "types": "./types/*"
+        }
+    },
+    "files": [
+        "dist",
+        "types"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "types": "tsc",
+        "build": "npm run types && vite build"
+    },
+    "devDependencies": {
+        "typescript": "^5.2.2",
+        "vite": "^4.5.0"
+    },
+    "keywords": []
+}

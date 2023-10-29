@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "esModuleInterop": true,
+        "declaration": true,
+        "declarationDir": "./types",
+        "outDir": "./build",
+        "types": [],
+        "target": "ES2020",
+
+        /* Bundler mode */
+        "emitDeclarationOnly": true,
+        "noEmit": false,
+
+        /* Linting */
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true
+    },
+    "include": ["./src/**/*"]
+}
